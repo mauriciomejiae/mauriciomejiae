@@ -1,9 +1,9 @@
 ### Hola 👋⚡🚀💚  ¡Bienvenido a el perfil de Mauricio Mejia Estevez!
 
-- 🎓 Profesión: Ingeniero de sistemas 
-- 💻 Trabajo:   Analista Operaciones Data Center
-- 📫 E-mail:    mme0504@gmail.com 
-- 📌 Ubicación: Barrancabermeja, CO
+🎓 Ingeniero de sistemas 
+💻 Analista Operaciones Data Center
+📫 mme0504@gmail.com 
+📌 Barrancabermeja, Colombia
 
 [ ![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png) ](https://www.linkedin.com/in/mauriciomejiae/)
 
