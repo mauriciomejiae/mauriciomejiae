@@ -1,8 +1,10 @@
-### Hola 👋💚⚡  ¡Bienvenido a el perfil de @auriciomejiae!
+### Hola 👋💚⚡  ¡Bienvenido a el perfil de @mauriciomejiae!
 
 - 🎓 Profesión: Ingeniero de sistemas 
 - 💻 Trabajo:   Analista Operaciones Data Center
 - 📫 E-mail:    mme0504@gmail.com 
+- 🌱 Ubicación: Barrancabermeja, CO
+
 
 [ ![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png) ](https://www.linkedin.com/in/mauriciomejiae/)
 
