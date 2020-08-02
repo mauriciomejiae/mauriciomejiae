@@ -1,4 +1,4 @@
-### Hola 👋⚡🚀💚  ¡Bienvenido a el perfil de Mauricio Mejia Estevez!
+### Hola 👋💚  ¡Bienvenido a el perfil de Mauricio Mejia Estevez!
 
 🎓 Ingeniero de sistemas 
 💻 En búsqueda de nuevos proyectos
