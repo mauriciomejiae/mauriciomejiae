@@ -1,7 +1,6 @@
 ### Hola 👋💚  ¡Bienvenido a el perfil de Mauricio Mejia Estevez!
 
 🎓 Ingeniero de sistemas 
-💻 En búsqueda de nuevos proyectos
 📫 mme0504@gmail.com 
 📌 Barrancabermeja, Colombia
 
